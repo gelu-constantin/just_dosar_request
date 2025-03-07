@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlite3
+zeep
+requests
+beautifulsoup4
+urllib3
