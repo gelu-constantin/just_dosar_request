@@ -15,6 +15,8 @@ Aplicația este utilă pentru avocați, juriști sau orice persoană interesată
 
 Pentru a rula aplicația, ai nevoie de următoarele:
 
+**Python 3.12.9**
+
 ### Dependințe Python
 Instalează dependințele folosind `pip`:
 ```bash
